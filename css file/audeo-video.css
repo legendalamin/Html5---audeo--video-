@@ -4,5 +4,6 @@
     align-items: center;
 } */
 .video {
-    width: 400px;
+    /* width: 400px; */
+    align-items: center;
 }
